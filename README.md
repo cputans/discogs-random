@@ -35,7 +35,7 @@ chmod +x discogs-random
 Prerequisites: Go 1.21 or higher
 
 ```bash
-git clone https://github.com/yourusername/discogs-random.git
+git clone https://github.com/cputans/discogs-random.git
 cd discogs-random
 go build -o discogs-random
 ```
